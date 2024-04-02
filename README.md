@@ -1,5 +1,5 @@
 # Hi, I'm Algorithmic Programmer 🖐️
-I'm a technology enthusiast and consultant. I'm also a graduate student in computer science with a research focus in machine learning.
+My alias is inspired by my fascination with computer programming, mathematics, and algorithms. I am a technology enthusiast and consultant. I'm also a graduate student in computer science with a research focus in machine learning.
 
 
 ## Languages
