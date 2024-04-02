@@ -1,12 +1,12 @@
 # Hi, I'm Algorithmic Programmer 🖐️
+I'm a technology enthusiast and consultant. I'm also a graduate student in computer science with a research focus in machine learning.
 
-.
 
 ## Languages
 ![HTML](https://img.shields.io/badge/HTML-03449F.svg?logo=HTML5&style=for-the-badge&logoColor=E9D54D)
 ![CSS](https://img.shields.io/badge/CSS-03449F.svg?logo=CSS3&style=for-the-badge&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-03449F.svg?logo=JavaScript&style=for-the-badge&logoColor=E9D54D)
-![TypeScript](https://img.shields.io/badge/Java-03449F.svg?logo=Java&style=for-the-badge&logoColor=007ACC)
+![Java](https://img.shields.io/badge/Java-03449F.svg?logo=Java&style=for-the-badge&logoColor=007ACC)
 
 ## Frameworks
 ![React](https://img.shields.io/badge/React-03449F.svg?logo=React&style=for-the-badge&logoColor=F8C52C)
