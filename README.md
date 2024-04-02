@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hi, I'm Algorithmic Programmer 🖐️
 
-<!--
-**algorithmicprogrammer/algorithmicprogrammer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+.
 
-Here are some ideas to get you started:
+## Languages
+![HTML](https://img.shields.io/badge/HTML-03449F.svg?logo=HTML5&style=for-the-badge&logoColor=E9D54D)
+![CSS](https://img.shields.io/badge/CSS-03449F.svg?logo=CSS3&style=for-the-badge&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-03449F.svg?logo=JavaScript&style=for-the-badge&logoColor=E9D54D)
+![TypeScript](https://img.shields.io/badge/Java-03449F.svg?logo=Java&style=for-the-badge&logoColor=007ACC)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Frameworks
+![React](https://img.shields.io/badge/React-03449F.svg?logo=React&style=for-the-badge&logoColor=F8C52C)
+![Node.js](https://img.shields.io/badge/Node.js-03449F.svg?logo=Node.js&style=for-the-badge&logoColor=white)
+
+## Version Control, Tools
+![Git](https://img.shields.io/badge/Git-03449F.svg?logo=git&style=for-the-badge&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-03449F.svg?logo=github&style=for-the-badge&logoColor=white)
