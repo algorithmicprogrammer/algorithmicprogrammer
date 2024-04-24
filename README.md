@@ -1,5 +1,5 @@
 # Hi, I'm Algorithmic Programmer 🖐️
-My nickname is inspired by my fascination with computer programming, mathematics, and algorithms. I am a technology enthusiast and consultant. I'm also a graduate student in computer information technology.
+My nickname is inspired by my fascination with computer programming, mathematics, and algorithms. I am a technology enthusiast, a software engineer, and a graduate student in computer information technology with a 4.0 GPA and a research focus in AI & machine learning.
 
 
 ## Languages
