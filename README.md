@@ -3,8 +3,8 @@ My nickname is inspired by my fascination with computer programming, mathematics
 
 
 ## Technologies
-![HTML](https://img.shields.io/badge/HTML-★★★★☆-ff4f93)
-![CSS](https://img.shields.io/badge/CSS-★★★★☆-ff4f93)
+![HTML](https://img.shields.io/badge/HTML-★★★★★-ff4f93)
+![CSS](https://img.shields.io/badge/CSS-★★★★★-ff4f93)
 ![JavaScript](https://img.shields.io/badge/JavaScript-★★★★☆-ff4f93)
 ![React](https://img.shields.io/badge/React-★★★★☆-ff4f93)
 ![Node.js](https://img.shields.io/badge/Node.js-★★★★☆-ff4f93)
