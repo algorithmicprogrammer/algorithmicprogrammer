@@ -38,9 +38,10 @@
   <br />
   <summary><b>⚙️ My Tools</b></summary>
   	<ul>
-  	    <li><b>OS:</b> MacOS</li>
-	      <li><b>Laptop: </b> Macbook Pro</li>
-  	    <li><b>Browser: </b> Chrome, Safari</li>
+  	    <li><b>OS:</b> Ubuntu</li>
+	      <li><b>Laptop: </b> Lenovo Legion 7i (2024, 32GB RAM, 1TB SSD)</li>
+	      <li><b>CPU:</b> 14th Generation Intel Core i9</li>
+	      <li><b>GPU:</b> Nvidia GeForce RTX 4070 8GB</li>
 	      <li><b>IDE:</b> WebStorm</li>
 	      <li><b>To Stay Updated:</b> Harvard Business Review, MIT Technology Review</li>
 	</ul>
