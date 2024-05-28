@@ -18,10 +18,10 @@
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="googlecloud"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"></code>
 
-### Projects and Dev Stuffs:
+### Developer Info:
 
 <details>
-  <summary><b>⚡ Github Stats</b></summary>
+  <summary><b>⚡ Github Statistics</b></summary>
 
   <br />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=algorithmicprogrammer&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
@@ -39,11 +39,10 @@
   <br />
   <summary><b>⚙️ My Tools</b></summary>
   	<ul>
-	      <li><b>Laptop:</b> 9th generation Lenovo Legion 7i</li>
+	      <li><b>Laptop:</b> Lenovo Legion 7i (16 inch, 9th gen)</li>
 	      <li><b>OS:</b> Ubuntu 24.04 LTS</li>
 	      <li><b>CPU:</b> 14th Generation Intel Core i9</li>
-	      <li><b>GPU:</b> Nvidia GeForce RTX 4070 8GB VRAM</li>
-	      <li><b>RAM:</b> 32 GB</li>
-	      <li><b>IDE:</b> JetBrains (WebStorm, IntelliJ, PyCharm, etc.)</li>
+	      <li><b>GPU:</b> Nvidia GeForce RTX 4070</li>
+	      <li><b>IDE(s):</b> JetBrains (PyCharm, WebStorm, IntelliJ, etc.)</li>
 	</ul>
 </details>
