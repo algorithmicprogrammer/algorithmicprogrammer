@@ -41,6 +41,14 @@
 <details>
   <br />
   <summary><b>⚙️ My Tools</b></summary>
+	<h3>Workstation (Custom PC Built By Me)</h3>
+  	<ul>
+	      <li><b>Motherboard:</b> MSI Mag B550 Tomahawk Max Wifi</li>
+	      <li><b>BIOS Version:</b> 7C91v281</li>
+	      <li><b>OS:</b> Ubuntu 24.04 LTS</li>
+	      <li><b>CPU:</b> Ryzen 7 5700X</li>
+	      <li><b>GPU:</b> Nvidia GeForce RTX 4080 Super</li>
+	</ul>
 	<h3>Laptop</h3>
   	<ul>
 	      <li><b>Make/Model:</b> Lenovo Legion 7i (16 inch, 9th gen)</li>
