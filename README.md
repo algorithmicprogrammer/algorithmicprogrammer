@@ -41,11 +41,11 @@
 <details>
   <br />
   <summary><b>⚙️ My Tools</b></summary>
+	<h3>Laptop</h3>
   	<ul>
-	      <li><b>Laptop:</b> Lenovo Legion 7i (16 inch, 9th gen)</li>
+	      <li><b>Make/Model:</b> Lenovo Legion 7i (16 inch, 9th gen)</li>
 	      <li><b>OS:</b> Ubuntu 24.04 LTS</li>
 	      <li><b>CPU:</b> 14th Generation Intel Core i9</li>
 	      <li><b>GPU:</b> Nvidia GeForce RTX 4070</li>
-	      <li><b>IDE(s):</b> JetBrains (PyCharm, WebStorm, IntelliJ, etc.)</li>
 	</ul>
 </details>
