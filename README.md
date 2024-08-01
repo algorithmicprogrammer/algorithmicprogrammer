@@ -52,7 +52,7 @@
 	      <li><b>Storage:</b> Western Digital 1TB Internal SSD SATA</li>
 	      <li><b>CPU Cooler:</b> Corsair iCUE H150i ELITE LCD XT 360mm Cooling System</li>
 	      <li><b>Case:</b> Corsair 4000D Airflow Mid-Tower Case</li>
-	      <li><b>Power Supply:</b> Pystar 1000W 80+ Gold Fully Modular PSU</li>	
+	      <li><b>Power Supply:</b> Corsair RM1000x 80 PLUS Gold Fully Modular PSU</li>	
 	</ul>
 	<h3>Laptop</h3>
   	<ul>
