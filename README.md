@@ -42,9 +42,6 @@
   <br />
   <summary><b>⚙️ My Tools</b></summary>
 	<h3>Workstation (Custom PC Built By Me)</h3>
-	![20240801_184711](https://github.com/user-attachments/assets/6332610d-c138-4955-81c3-d0c241e260aa)
-
-
   	<ul>
 	      <li><b>Motherboard:</b> MSI Mag B550 Tomahawk Max Wifi</li>
 	      <li><b>BIOS Version:</b> 7C91v281</li>
