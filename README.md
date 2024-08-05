@@ -60,5 +60,7 @@
 	      <li><b>OS:</b> Ubuntu 24.04 LTS</li>
 	      <li><b>CPU:</b> 14th Generation Intel Core i9</li>
 	      <li><b>GPU:</b> Nvidia GeForce RTX 4070</li>
+	      <li><b>Memory:</b> 32GB DDR5 5600Mhz</li>
+	      <li><b>Storage:</b> 1TB SSD</li>	
 	</ul>
 </details>
