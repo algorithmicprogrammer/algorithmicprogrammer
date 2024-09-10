@@ -3,7 +3,7 @@
 ### About Me:
 
 - 🔢 &nbsp; My nickname is inspired by my fascination with computer science, data structures, algorithms, and mathematics.
-- 💻 &nbsp; I’m a CS student with a 4.0 GPA and a research focus in AI and machine learning.
+- 💻 &nbsp; I’m a computer information technology graduate student with a 4.0 GPA and a research focus in AI and machine learning.
 - 💼 &nbsp; My professional experience in software engineering and technology consulting dates back to 2015. 
 
 ### Languages and Tools:
