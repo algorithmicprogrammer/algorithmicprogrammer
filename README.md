@@ -52,7 +52,7 @@
 	      <li><b>BIOS Version:</b> 7C91v281</li>
 	      <li><b>OS:</b> Ubuntu 24.04 LTS</li>
 	      <li><b>CPU:</b> Ryzen 7 5700X</li>
-	      <li><b>GPU:</b> Nvidia GeForce RTX 4080 Super</li>
+	      <li><b>GPU:</b> Nvidia GeForce RTX 4080 Super Founder's Edition</li>
 	      <li><b>Memory:</b> Crucial Pro Series 64GB (2x32) DDR4 3200Mhz</li>
 	      <li><b>Storage:</b> Western Digital 1TB Internal SSD SATA</li>
 	      <li><b>CPU Cooler:</b> Corsair iCUE H150i ELITE LCD XT 360mm Cooling System</li>
