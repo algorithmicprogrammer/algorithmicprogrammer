@@ -3,21 +3,10 @@
 ### About Me:
 
 - 🔢 &nbsp; My nickname is inspired by my fascination with computer science, data structures, algorithms, and mathematics.
-- 💻 &nbsp; I’m a computer information technology graduate student with a 4.0 GPA and a research focus in AI and machine learning.
+- 💻 &nbsp; I’m a computer information technology graduate student with an interest in machine learning.
 - 💼 &nbsp; My professional experience in software engineering and technology consulting dates back to 2015. 
 
 ### Languages and Tools:
-
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="next"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas"></code>
@@ -49,8 +38,7 @@
 	<h3>Workstation (Custom PC Built By Me)</h3>
   	<ul>
 	      <li><b>Motherboard:</b> MSI Mag B550 Tomahawk Max Wifi</li>
-	      <li><b>BIOS Version:</b> 7C91v281</li>
-	      <li><b>OS:</b> Ubuntu 24.04 LTS</li>
+	      <li><b>OS:</b> Ubuntu 24.04.1 LTS</li>
 	      <li><b>CPU:</b> Ryzen 7 5700X</li>
 	      <li><b>GPU:</b> Nvidia GeForce RTX 4080 Super Founder's Edition</li>
 	      <li><b>Memory:</b> Crucial Pro Series 64GB (2x32) DDR4 3200Mhz</li>
