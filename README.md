@@ -3,7 +3,7 @@
 ### About Me:
 
 - 🔢 &nbsp; My nickname is inspired by my fascination with computer science, data structures, algorithms, and mathematics.
-- 💻 &nbsp; I’m a computer information technology graduate student with an interest in machine learning.
+- 💻 &nbsp; I’m a graduate student with an interest in machine learning.
 - 💼 &nbsp; My professional experience in software engineering and technology consulting dates back to 2015. 
 
 ### Languages and Tools:
