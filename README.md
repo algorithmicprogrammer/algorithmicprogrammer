@@ -2,9 +2,7 @@
 
 ### About Me:
 
-- 🔢 &nbsp; My nickname is inspired by my fascination with computer science, data structures, algorithms, and mathematics.
-- 💻 &nbsp; I’m a graduate student with an interest in machine learning.
-- 💼 &nbsp; My professional experience in software engineering and technology consulting dates back to 2015. 
+- 🔢 &nbsp; My nickname is inspired by my fascination with computer science, data structures, algorithms, and mathematics. 
 
 ### Languages and Tools:
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"></code>
